@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Editor / backup
+*~
+*.swp
+*.swo
+
+# Environment and secrets (if you add tooling later)
+.env
+.env.*
+!.env.example
+
+# Dependencies (if you add a JS/Python tool later)
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.pyc
