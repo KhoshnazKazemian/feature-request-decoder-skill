@@ -1,5 +1,7 @@
 # Feature Request Decoder
 
+[![Thumbnail](Thumbnail.png)]
+
 Turn vague, solution-first feature requests into clear, behavior-driven, testable product briefs.
 
 This skill helps product designers, product managers, and AI collaborators slow down before jumping into UI or implementation. Instead of accepting requests at face value, it reframes them into structured thinking about behavior, assumptions, risks, and validation.
