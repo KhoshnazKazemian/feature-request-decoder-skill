@@ -1,6 +1,6 @@
 # Feature Request Decoder
 
-[![Thumbnail](Thumbnail.png)]
+![Thumbnail](Thumbnail.png)
 
 Turn vague, solution-first feature requests into clear, behavior-driven, testable product briefs.
 
